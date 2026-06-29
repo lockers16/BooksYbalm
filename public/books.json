@@ -1,0 +1,82 @@
+[
+  {
+    "id": "book-tanach-1",
+    "title": "תנ\"ך קורן עם פירוש",
+    "subject": "תנ\"ך",
+    "author": "הוצאת קורן",
+    "isMandatory": true,
+    "grades": ["ז", "ח", "ט"],
+    "classes": [],
+    "english": [],
+    "math": [],
+    "majors": [],
+    "notes": "מומלץ לרכוש מהדורה חדשה",
+    "bookType": "ספר לימוד / קריאה",
+    "associations": [
+      {
+        "grade": "ז",
+        "subjectType": "תנ\"ך"
+      },
+      {
+        "grade": "ח",
+        "subjectType": "תנ\"ך"
+      },
+      {
+        "grade": "ט",
+        "subjectType": "תנ\"ך"
+      }
+    ]
+  },
+  {
+    "id": "book-math-5",
+    "title": "מתמטיקה 5 יח\"ל - כרך א'",
+    "subject": "מתמטיקה",
+    "author": "יואל גבע",
+    "isMandatory": false,
+    "grades": ["י", "י\"א"],
+    "classes": [],
+    "english": [],
+    "math": ["5 יח\"ל"],
+    "majors": [],
+    "bookType": "ספר לימוד / קריאה",
+    "associations": [
+      {
+        "grade": "י",
+        "subjectType": "מתמטיקה",
+        "stream": "5 יח\"ל"
+      },
+      {
+        "grade": "י\"א",
+        "subjectType": "מתמטיקה",
+        "stream": "5 יח\"ל"
+      }
+    ]
+  },
+  {
+    "id": "book-cs-1",
+    "title": "מדעי המחשב - יסודות התכנות ב-Java",
+    "subject": "מדעי המחשב",
+    "author": "מבט על",
+    "isMandatory": false,
+    "grades": ["י", "י\"א", "י\"ב"],
+    "classes": [],
+    "english": [],
+    "math": [],
+    "majors": ["מדעי המחשב"],
+    "bookType": "ספר לימוד / קריאה",
+    "associations": [
+      {
+        "grade": "י",
+        "subjectType": "מדעי המחשב"
+      },
+      {
+        "grade": "י\"א",
+        "subjectType": "מדעי המחשב"
+      },
+      {
+        "grade": "י\"ב",
+        "subjectType": "מדעי המחשב"
+      }
+    ]
+  }
+]
