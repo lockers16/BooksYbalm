@@ -384,6 +384,7 @@
     "author": "כללי",
     "isMandatory": false,
     "notes": "רכישה מרוכזת",
+    "bookType": "לא בהשאלת הספרים",
     "grades": [
       "י\"א"
     ],
